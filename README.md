@@ -13,7 +13,7 @@ To get started, you'll need the following:
 
 1. **Clone the repository:**
 
-git clone https://github.com/Kiranwaqar/FaceDetection.git
+git clone https://github.com/Kiranwaqar/FaceDetectionModel.git
 
 2. **Install dependencies:**
 
